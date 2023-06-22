@@ -99,7 +99,7 @@ Projenin testleri aşağıdaki bileşenlere ayrılmıştır:
 ### Repository'yi klonlayın
 
 ```
-git clone https://github.com/P259-Simpra-NET-Bootcamp/final-BerkayMehmetSert.git
+git clone https://github.com/BerkayMehmetSert/259-Simpra-Net-Bootcamp-Final-Project.git
 ```
 
 ### Bağımlılıkları yükleyin
